@@ -34,5 +34,3 @@ class ViewController: UITableViewController {
         return cell
     }
 }
-
-"Testing"
